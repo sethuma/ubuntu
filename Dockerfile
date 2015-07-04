@@ -5,7 +5,8 @@
 #
 #
 # Pull base image.
-FROM ubuntu:14.04
+#FROM ubuntu:14.04
+FROM 1442213e73de
 
 # Install.
 RUN \
